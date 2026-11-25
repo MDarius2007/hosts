@@ -13,3 +13,4 @@ do
 		f "$nume" "$ip" "8.8.8.8"
 	fi
 done
+echo "Modificat de Rares"
